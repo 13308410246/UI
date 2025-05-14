@@ -1,0 +1,83 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "报名宝",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/orders/orders",
+			"style": {
+				"navigationBarTitleText": "订单",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/createPayment/CreatePaymentForm",
+			"style": {
+				"navigationBarTitleText": "创建收款",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/createPayment/GroupBuyForm",
+			"style": {
+				"navigationBarTitleText": "团购收购",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/createPayment/EnrollmentPaymentForm",
+			"style": {
+				"navigationBarTitleText": "报名收款",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/wallet/ActivateAccount",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/createPayment/ProductDescription",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/createPayment/PresetBoardSettingPage",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/createPayment/NameListInputPage",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/createPayment/NameListPreviewPage",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "报名宝",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
